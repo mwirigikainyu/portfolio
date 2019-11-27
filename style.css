@@ -1,0 +1,153 @@
+body {
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+.black-icon{
+  float: right;
+}
+
+.top-container{
+  background-color: #e3f6f5;
+  margin-bottom: 20px;
+  padding-top: 50px;
+  position:relative;
+}
+
+.mountain{
+  padding-bottom: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Niconne', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+  margin-top: auto;
+  padding-top: 100px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro{
+  margin: auto;
+  width: 30%;
+}
+
+.cloud-1 {
+  display: inline-block;
+  position:absolute;
+  right:350px;
+  top:40px;
+}
+
+.cloud-2 {
+  position: absolute;
+}
+
+.profile-image {
+  height:200px;
+  width:200px;
+}
+
+.computer{
+  float: right;
+  height:25%;
+  margin-right: 30px;
+  width:25%;
+}
+
+a{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #70c7c7;
+}
+
+.copyright{
+  color: #70c7c7;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.subtitle{
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.chillies{
+  float: left;
+  height:25%;
+  margin-right: 30px;
+  width:25%
+}
+
+.middle-container{
+  margin:100px 0;
+}
+
+.bottom-container{
+  background-color: #e3f6f5;
+  padding-bottom: 20px;
+  padding-top: 50px;
+}
+
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+margin: 100px auto;
+width: 4%;
+}
+
+.skill-row{
+  display: inline-block;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width:50%;
+}
+
+p{
+  line-height: 2;
+}
+
+.contact-message{
+  margin: 40px auto 60px;
+  width: 40%;
+}
+
+.btn {
+	background-color:#66bfbf;
+	border-radius:11px;
+	border:1px solid #70c7c7;
+	cursor:pointer;
+	color:#ffffff;
+  display:inline-block;
+  font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	padding:14px 32px;
+	text-decoration:none;
+	text-shadow:0 4px 4px #11999e;
+}
+.btn:hover {
+	background-color:#11999E;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
